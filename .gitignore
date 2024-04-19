@@ -1,0 +1,7 @@
+*.zip
+*.npy
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+git rm --cached -r data/
